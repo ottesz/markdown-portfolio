@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#couple list
+
+*This text will be italic*
+_This will also be italian_
+
+**This text will be bold**
+__This will also be bold__
+
+_*your mome sux*_
